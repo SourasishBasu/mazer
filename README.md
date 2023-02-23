@@ -11,9 +11,9 @@ It is a simple game made with Unity using C#. 3D models were created in Blender.
 ### Controls
 `W,A,S,D` for movement
 
-![Screenshot of Game Window](https://imgur.com/a/7upVZi3)
-
 ### Prequisites
 > A windows machine (host)
 
 > OpenGL 3.2+ or Vulkan-capable, Nvidia and AMD GPUs
+
+![Screenshot of Game Window](https://imgur.com/a/7upVZi3)
